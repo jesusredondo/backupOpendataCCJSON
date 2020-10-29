@@ -1,0 +1,648 @@
+{
+  "head": {
+    "vars": [ "uri" , "rdfs_label" , "om_talladoEn" , "om_pertenece" , "formaParte" , "om_estiloArtistico" , "om_autorImagen" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestra-senora-de-la-alegria" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestra Señora de la Alegría" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1930" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-soledad" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestra-senora-de-la-alegria" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Taller Hijos de José Ríus" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/cristo-de-las-indulgencias" } ,
+        "rdfs_label": { "type": "literal" , "value": "Cristo de las Indulgencias" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Siglo XIV" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/cristo-de-las-indulgencias" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santiago-el-menor" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santiago el Menor" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2001" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/gestas" } ,
+        "rdfs_label": { "type": "literal" , "value": "Gestas" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/calvario-del-santisimo-cristo-de-los-milagros" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/amarrado-a-la-columna" } ,
+        "rdfs_label": { "type": "literal" , "value": "Amarrado a la Columna" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1913" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-vera-cruz" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/la-flagelacion" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Francisco Font y Pos" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisimo-cristo-del-humilladero" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísimo Cristo del Humilladero" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Siglo XIV" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-humilladero" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisimo-cristo-del-humilladero" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Gótico" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/sayon-1-la-caida" } ,
+        "rdfs_label": { "type": "literal" , "value": "Sayón 1 (La Caída)" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/la-caida-del-senor" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestro-padre-jesus-de-la-expiracion-de-la-arguijuela" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestro Padre Jesús de la Expiración de la Arguijuela" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Finales del Siglo XIV" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-expiracion" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesus-de-la-expiracion-de-la-arguijuela" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Gótico" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/san-juan-el-calvario" } ,
+        "rdfs_label": { "type": "literal" , "value": "San Juan (El Calvario)" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1927" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/el-calvario" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Talleres de Hijos de José Rius" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/jesus-de-la-salud" } ,
+        "rdfs_label": { "type": "literal" , "value": "Jesús de la Salud" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2009" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-salud" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesus-de-la-salud-en-su-injusta-sentencia" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Neobarroco" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Rafael M. Hernández" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestra-senora-del-sagrario" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestra Señora del Sagrario" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1998" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestra-senora-del-sagrario" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestra-senora-del-buen-fin-y-nazaret" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestra Señora del Buen Fin y Nazaret" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1990" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-las-batallas" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestra-senora-del-buen-fin-y-nazaret" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Francisco Berlanga" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/sayon-2-la-caida" } ,
+        "rdfs_label": { "type": "literal" , "value": "Sayón 2 (La Caída)" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/la-caida-del-senor" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/san-mateo" } ,
+        "rdfs_label": { "type": "literal" , "value": "San Mateo" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1999" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/cristo-del-calvario" } ,
+        "rdfs_label": { "type": "literal" , "value": "Cristo del Calvario" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1927" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/el-calvario" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Talleres de Hijos de José Rius" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/la-veronica" } ,
+        "rdfs_label": { "type": "literal" , "value": "La Verónica" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1903" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/el-senor-camino-del-calvario  http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/la-veronica" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Talleres Hermanos Bellido" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/beso-de-judas" } ,
+        "rdfs_label": { "type": "literal" , "value": "Beso de Judas" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1931" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-vera-cruz" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/beso-de-judas" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Vicente Tena" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santo-tomas" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santo Tomás" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2003" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/senor-de-la-eucaristia" } ,
+        "rdfs_label": { "type": "literal" , "value": "Señor de la Eucaristía" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1995" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/mujer-acompanando-a-jesus" } ,
+        "rdfs_label": { "type": "literal" , "value": "Mujer acompañando a Jesús" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1915" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-los-ramos" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/entrada-triunfal-de-jesus-en-jerusalen" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Jaime Martrús i Riera" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/san-felipe" } ,
+        "rdfs_label": { "type": "literal" , "value": "San Felipe" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1998" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestra-senora-de-la-misericordia" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestra Señora de la Misericordia" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1927" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestra-senora-de-la-misericordia" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Talleres de Hijos de José Rius" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/cristo-resucitado" } ,
+        "rdfs_label": { "type": "literal" , "value": "Cristo Resucitado" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1930" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-soledad" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/cristo-resucitado" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Taller Hijos de José Ríus" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/virgen-maria-el-calvario" } ,
+        "rdfs_label": { "type": "literal" , "value": "Virgen María (El Calvario)" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1927" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/el-calvario" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Talleres de Hijos de José Rius" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/cristo-yacente-del-besapie" } ,
+        "rdfs_label": { "type": "literal" , "value": "Cristo Yacente (del Besapié)" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1966" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-soledad" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/cristo-yacente" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Realizada en Madrid siguiendo el modelo del Cristo Yacente del Pardo de Gregorio Fernández" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/centurion-romano-salud" } ,
+        "rdfs_label": { "type": "literal" , "value": "Centurión Romano (Salud)" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2005" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-salud" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesus-de-la-salud-en-su-injusta-sentencia" } ,
+        "om_autorImagen": { "type": "literal" , "value": "David Valenciano" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisimo-cristo-de-los-milagros" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísimo Cristo de los Milagros" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1583" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/calvario-del-santisimo-cristo-de-los-milagros  http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisimo-cristo-de-los-milagros" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santiago" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santiago" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1996" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/maria-santisima-de-los-dolores" } ,
+        "rdfs_label": { "type": "literal" , "value": "María Santísima de los Dolores" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Finales del Siglo XVIII" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-las-batallas" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/maria-santisima-de-los-dolores" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/cristo-de-la-salud-y-de-la-expiracion" } ,
+        "rdfs_label": { "type": "literal" , "value": "Cristo de la Salud y de la Expiración" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Siglo XVI" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-vera-cruz" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/cristo-de-la-salud-y-de-la-expiracion" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Renacentista" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santo-crucifijo-de-santa-maria-cristo-negro" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santo Crucifijo de Santa María (Cristo Negro)" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Mediados del Siglo XIV" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-cristo-negro" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santo-crucifijo-de-santa-maria-cristo-negro" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/jesus-condenado" } ,
+        "rdfs_label": { "type": "literal" , "value": "Jesús Condenado" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2011" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-jesus-condenado" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/jesus-condenado" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio Fernández Domínguez" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/centurion-romano-humildad" } ,
+        "rdfs_label": { "type": "literal" , "value": "Centurión Romano (Humildad)" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2016" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-humildad" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesús-de-la-humildad-en-su-prendimiento" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Ventura Gómez Rodríguez" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/sayon-3-la-caida" } ,
+        "rdfs_label": { "type": "literal" , "value": "Sayón 3 (La Caída)" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/la-caida-del-senor" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/claudia-procula" } ,
+        "rdfs_label": { "type": "literal" , "value": "Claudia Prócula" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2015" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-salud" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesus-de-la-salud-en-su-injusta-sentencia" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Pablo Román" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/san-juan-evangelista" } ,
+        "rdfs_label": { "type": "literal" , "value": "San Juan Evangelista" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1995" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/san-pedro" } ,
+        "rdfs_label": { "type": "literal" , "value": "San Pedro" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1997" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/la-caida-del-senor" } ,
+        "rdfs_label": { "type": "literal" , "value": "La Caída del señor" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1956" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/el-senor-camino-del-calvario  http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/la-caida-del-senor" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Talleres Hermanos Bellido" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/san-judas-tadeo" } ,
+        "rdfs_label": { "type": "literal" , "value": "San Judas Tadeo" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1995" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nino-2" } ,
+        "rdfs_label": { "type": "literal" , "value": "Niño 2" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1916" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-los-ramos" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/entrada-triunfal-de-jesus-en-jerusalen" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Joaquim Claret i Vallés" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/san-simon" } ,
+        "rdfs_label": { "type": "literal" , "value": "San Simón" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2002" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisimo-cristo-de-la-victoria" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísimo Cristo de la Victoria" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2007" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-victoria" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisimo-cristo-de-la-victoria" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Taller Arte Martínez de Horche" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/maria-santisima-de-la-esperanza" } ,
+        "rdfs_label": { "type": "literal" , "value": "María Santísima de la Esperanza" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1949" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-los-ramos" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/maria-santisima-de-la-esperanza" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Neobarroco" } ,
+        "om_autorImagen": { "type": "literal" , "value": "José García Bravo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/dolorosa-de-la-cruz" } ,
+        "rdfs_label": { "type": "literal" , "value": "Dolorosa de la Cruz" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1953" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-vera-cruz" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/dolorosa-de-la-cruz" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Barroco" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio Vaquero" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestra-senora-de-la-caridad" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestra Señora de la Caridad" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Finales del Siglo XVII" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-amor" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestra-senora-de-la-caridad" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Barroco" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/poncio-pilato" } ,
+        "rdfs_label": { "type": "literal" , "value": "Poncio Pilato" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2012" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-salud" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesus-de-la-salud-en-su-injusta-sentencia" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Rafael M. Hernández" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/virgen-de-las-angustias" } ,
+        "rdfs_label": { "type": "literal" , "value": "Virgen de las Angustias" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1914" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/virgen-de-las-angustias" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Talleres El Arte Cristiano" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/judas-iscariote-sagrada-cena" } ,
+        "rdfs_label": { "type": "literal" , "value": "Judas Iscariote (Sagrada Cena)" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2005" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/dimas" } ,
+        "rdfs_label": { "type": "literal" , "value": "Dimas" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/calvario-del-santisimo-cristo-de-los-milagros" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/judas-iscariote-humildad" } ,
+        "rdfs_label": { "type": "literal" , "value": "Judas Iscariote (Humildad)" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2018" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-humildad" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesús-de-la-humildad-en-su-prendimiento" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Ventura Gómez Rodríguez" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisimo-cristo-del-calvario" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísimo Cristo del Calvario" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Siglo XVI" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-los-estudiantes" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisimo-cristo-del-calvario" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Escuela de Gregorio Fernández" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/senor-de-las-penas" } ,
+        "rdfs_label": { "type": "literal" , "value": "Señor de las Penas" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Finales del Siglo XVI" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-amor" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/senor-de-las-penas" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Romanista" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Pedro de la Cuadra" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/jesus-de-la-humildad" } ,
+        "rdfs_label": { "type": "literal" , "value": "Jesús de la Humildad" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2008" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-humildad" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesús-de-la-humildad-en-su-prendimiento" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio Jesús Dubé Herdugo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestro-padre-jesus-del-perdon" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestro Padre Jesús del Perdón" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Siglo XVII" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-los-ramos" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesus-del-perdon" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo (Escuela Castellana)" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/el-triunfo-de-la-eucaristia" } ,
+        "rdfs_label": { "type": "literal" , "value": "El Triunfo de la Eucaristía" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2013" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/el-triunfo-de-la-eucaristia" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé Herdugo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/jesus-amarrado-a-la-columna" } ,
+        "rdfs_label": { "type": "literal" , "value": "Jesús amarrado a la Columna" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1655" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-humilladero" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/senor-de-la-columna" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Barroco" } ,
+        "om_autorImagen": { "type": "literal" , "value": "José de Arce" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/cordero-pascual" } ,
+        "rdfs_label": { "type": "literal" , "value": "Cordero Pascual" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2009" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/san-bartolome" } ,
+        "rdfs_label": { "type": "literal" , "value": "San Bartolomé" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1998" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/alegoria-de-la-exaltacion-de-la-cruz" } ,
+        "rdfs_label": { "type": "literal" , "value": "Alegoría de la Exaltación de la Cruz" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1953" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/exaltacion-de-la-cruz" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Venancio Rubio" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/dolorosa-esperanza-ante-la-caridad-del-padre" } ,
+        "rdfs_label": { "type": "literal" , "value": "Dolorosa Esperanza ante la Caridad del Padre" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-amor" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/dolorosa-esperanza-ante-la-caridad-del-padre" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisimo-cristo-del-amor" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísimo Cristo del Amor" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1930" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-amor" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisimo-cristo-del-amor" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Barroco" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Talleres de \u201CEl Arte Cristiano\u201D" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestro-padre-jesus-nazareno" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestro Padre Jesús Nazareno" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1609" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesus-nazareno" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Romanista" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Tomás de la Huerta" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestra-senora-del-rosario-en-sus-misterios-dolorosos" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestra Señora del Rosario en sus Misterios Dolorosos" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2016" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-victoria" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestra-senora-del-rosario-en-sus-misterios-dolorosos" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Talleres de Manuel Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/san-andres" } ,
+        "rdfs_label": { "type": "literal" , "value": "San Andrés" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2000" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-sagrada-cena" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/sagrada-cena" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio J. Dubé de Luque" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/jesus-entrando-en-jerusalen" } ,
+        "rdfs_label": { "type": "literal" , "value": "Jesús entrando en Jerusalén" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1915" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-los-ramos" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/entrada-triunfal-de-jesus-en-jerusalen" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Jaime Martrús i Riera" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/la-magdalena" } ,
+        "rdfs_label": { "type": "literal" , "value": "La Magdalena" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1904" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-nazareno" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/la-magdalena" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestra-madre-y-senora-de-gracia-y-esperanza" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestra Madre y Señora de Gracia y Esperanza" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2002" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-expiracion" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestra-madre-y-senora-de-gracia-y-esperanza" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Neobarroco" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Ángel Luis Slater" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/sumo-sacerdote-humildad" } ,
+        "rdfs_label": { "type": "literal" , "value": "Sumo Sacerdote (Humildad)" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2017" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-humildad" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesús-de-la-humildad-en-su-prendimiento" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Ventura Gómez Rodríguez" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisimo-cristo-de-las-batallas" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísimo Cristo de las Batallas" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1953" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-las-batallas" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisimo-cristo-de-las-batallas" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Antonio Arenas Martínez" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/fervoroso-cristo-del-refugio" } ,
+        "rdfs_label": { "type": "literal" , "value": "Fervoroso Cristo del Refugio" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1780" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-las-batallas" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/fervoroso-cristo-del-refugio" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Atribuido a José de Proenza" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisimo-cristo-del-amparo" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísimo Cristo del Amparo" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1671" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-amparo" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisimo-cristo-del-amparo" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Barroco" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo (Escuela Castellana)" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/oracion-en-el-huerto" } ,
+        "rdfs_label": { "type": "literal" , "value": "Oración en el Huerto" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1898" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-vera-cruz" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/oracion-en-el-huerto" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Talleres Arqués" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisimo-cristo-de-la-preciosa-sangre" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísimo Cristo de la Preciosa Sangre" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1970" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-humilladero" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisimo-cristo-de-la-preciosa-sangre" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Casa de Imaginería Religiosa Serquella" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisimo-cristo-de-la-buena-muerte" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísimo Cristo de la Buena Muerte" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Siglo XVII" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-los-ramos" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisimo-cristo-de-la-buena-muerte" } ,
+        "om_estiloArtistico": { "type": "literal" , "value": "Barroco" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo (Escuela Castellana)" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisima-virgen-maria-corredentora" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísima Virgen María Corredentora" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1960" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-humilladero" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisima-virgen-maria-corredentora" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Venancio Rubio Criado" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nuestro-padre-jesus-de-la-entrega" } ,
+        "rdfs_label": { "type": "literal" , "value": "Nuestro Padre Jesús de la Entrega" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-amor" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesus-de-la-entrega" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/nino-1" } ,
+        "rdfs_label": { "type": "literal" , "value": "Niño 1" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1916" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-los-ramos" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/entrada-triunfal-de-jesus-en-jerusalen" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Joaquim Claret i Vallés" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/romano" } ,
+        "rdfs_label": { "type": "literal" , "value": "Romano" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "1988" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-del-humilladero" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/senor-de-la-columna" } ,
+        "om_autorImagen": { "type": "literal" , "value": "José Ovando Merino" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/santisima-virgen-de-la-soledad" } ,
+        "rdfs_label": { "type": "literal" , "value": "Santísima Virgen de la Soledad" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Finales del Siglo XVI" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-soledad" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/santisima-virgen-de-la-soledad" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Anónimo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenSemanaSanta/sanedrita" } ,
+        "rdfs_label": { "type": "literal" , "value": "Sanedrita" } ,
+        "om_talladoEn": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "2017" } ,
+        "om_pertenece": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/cofradia-de-la-salud" } ,
+        "formaParte": { "type": "literal" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/PasoProcesional/nuestro-padre-jesus-de-la-salud-en-su-injusta-sentencia" } ,
+        "om_autorImagen": { "type": "literal" , "value": "Juan B. Jiménez" }
+      }
+    ]
+  }
+}
