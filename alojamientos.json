@@ -34,17 +34,6 @@
         "schema_address_streetAddress": { "type": "literal" , "value": "C/ General Margallo, 4" }
       } ,
       {
-        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/turismo/alojamiento/Albergue/0-juvenil-rincon-de-ballesteros" } ,
-        "om_tieneEnlaceSIG": { "type": "uri" , "value": "http://sig.caceres.es/serweb/fichasig/fichatoponimia.php?mslink=29" } ,
-        "geo_lat": { "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "type": "typed-literal" , "value": "39.19667109" } ,
-        "geo_long": { "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "type": "typed-literal" , "value": "-6.39234918823" } ,
-        "rdfs_label": { "type": "literal" , "value": "Albergue Juvenil Rincon de Ballesteros" } ,
-        "schema_address_postalCode": { "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "type": "typed-literal" , "value": "10199" } ,
-        "schema_address_addressCountry": { "type": "literal" , "value": "ES" } ,
-        "schema_address_addressLocality": { "type": "literal" , "value": "Rincón De Ballesteros" } ,
-        "schema_address_streetAddress": { "type": "literal" , "value": "Plaza Conquistadores, 9" }
-      } ,
-      {
         "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/turismo/alojamiento/Apartamento/10-encanto" } ,
         "om_tieneEnlaceSIG": { "type": "uri" , "value": "http://sig.caceres.es/serweb/fichasig/fichatoponimia.php?mslink=10745" } ,
         "schema_url": { "type": "uri" , "value": "http://www.alojamientoencanto.com" } ,
